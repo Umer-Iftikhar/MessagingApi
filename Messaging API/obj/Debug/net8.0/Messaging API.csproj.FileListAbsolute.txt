@@ -1,0 +1,5 @@
+D:\Snippets\Messaging API\Messaging API\obj\Debug\net8.0\Messaging API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Snippets\Messaging API\Messaging API\obj\Debug\net8.0\Messaging API.AssemblyInfoInputs.cache
+D:\Snippets\Messaging API\Messaging API\obj\Debug\net8.0\Messaging API.AssemblyInfo.cs
+D:\Snippets\Messaging API\Messaging API\obj\Debug\net8.0\Messaging API.csproj.CoreCompileInputs.cache
+D:\Snippets\Messaging API\Messaging API\obj\Debug\net8.0\Messaging API.MvcApplicationPartsAssemblyInfo.cache
