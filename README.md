@@ -75,7 +75,6 @@ Create a new message.
 
 - .NET 8
 - Swagger (OpenAPI)
-- Minimal APIs
 - Dependency Injection
 - C#
 
@@ -84,3 +83,4 @@ Create a new message.
 ## 📄 License
 
 MIT — do whatever you want. Credit appreciated but not required.
+
