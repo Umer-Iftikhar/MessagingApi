@@ -46,7 +46,7 @@ This project demonstrates basic concepts of building a RESTful backend using .NE
 Make sure you have [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) installed.
 
 ```bash
-git clone https://github.com/yourusername/MessagingApi.git
+git clone https://github.com/Umer-Iftikhar/MessagingApi.git
 cd MessagingApi
 dotnet run
 ```
@@ -83,4 +83,5 @@ Create a new message.
 ## 📄 License
 
 MIT — do whatever you want. Credit appreciated but not required.
+
 
